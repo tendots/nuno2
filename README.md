@@ -1,4 +1,4 @@
-# nuno
+# nuno ver.2
 Electric fabric touchsensor module "nüno"
 
 導電布タッチセンサーモジュールnünoのコードです。
