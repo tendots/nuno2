@@ -1,7 +1,7 @@
 # nuno ver.2
 Electric fabric touchsensor module "nüno"
 
-導電布タッチセンサーモジュールnünoのコードです。
+導電布タッチセンサーモジュールnüno ver.2のコードです。
 
 質問や要望などあればこのページかFacebookページへご連絡ください。
 * Facebook page https://www.facebook.com/Project-n%C3%BCno-183796265747425/
@@ -13,9 +13,8 @@ Electric fabric touchsensor module "nüno"
 * コネクタ GROVEコネクタ(I2C)
 
 ## 導線部接続方法
-![dsc_0798](https://user-images.githubusercontent.com/1772744/43695211-3565bc26-9972-11e8-954f-f6c5fe57fcda.jpg)
 
-導線部（細長い方）は画像のように、縫い目がセンサー部（四角い方）の外縁に向くように接続してください。
+導線部（細長い方）はの、縫い目がセンサー部（四角い方）の外縁に向くように接続してください。
 逆につけた取り付けた場合、すべてのチャンネルの値が取得できません。
 
 ## 基板固定方法
